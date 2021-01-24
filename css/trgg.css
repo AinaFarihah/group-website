@@ -1,0 +1,66 @@
+body
+
+
+
+p
+{
+    font-family: 'Inconsolata', monospace;
+    font-size:20px;
+    color:black;
+    
+}
+
+    h1
+    {
+        font-family: 'Fraunces', serif;
+        font-size:50px;
+        color: black;
+        
+    }
+    h2
+    {
+        font-family: 'Inconsolata', monospace;
+        font-size: 25px;
+        color: black;
+        border: solid;
+        border-color:black;
+        border-radius:20px;
+    }
+
+   
+    h5
+    {
+        font-family: 'Inconsolata', monospace;
+        font-size: 20px;
+        color: black;
+
+    }
+
+
+    h6
+    {
+        font-family: 'Fraunces', serif;
+        font-size:13px;
+        color: black;
+        
+    }
+
+
+    
+a:link, a:visited
+{
+background-color: black;
+    color: rgb(255, 255, 46);
+    text-align: center;
+   text-transform: uppercase;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+a:hover, a:active
+{
+background-color: white;
+    color: black;
+}	
